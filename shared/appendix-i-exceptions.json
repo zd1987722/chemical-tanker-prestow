@@ -1,0 +1,1944 @@
+{
+  "source": "46 CFR Part 150 Appendix I (eCFR) · exported from platform database",
+  "exportedAt": "2026-09-05",
+  "allowed": [
+    {
+      "substance1": "1,2-Propylene glycol",
+      "group1": 20,
+      "substance2": "Diethylenetriamine",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "1,2-Propylene glycol",
+      "group1": 20,
+      "substance2": "Polyethylene polyamines",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "1,2-Propylene glycol",
+      "group1": 20,
+      "substance2": "Triethylenetetramine",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "1,3-Butylene glycol",
+      "group1": 20,
+      "substance2": "Morpholine",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "1,4-Butylene glycol",
+      "group1": 20,
+      "substance2": "Ethylamine",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "1,4-Butylene glycol",
+      "group1": 20,
+      "substance2": "Triethanolamine",
+      "group2": 8,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone",
+      "group1": 18,
+      "substance2": "Diethylenetriamine",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Acetic acid",
+      "group2": 4,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Acrylates",
+      "group2": 14,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Alcohols, Glycols",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Aldehydes",
+      "group2": 19,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Aromatic Hydrocarbon Mixtures",
+      "group2": 32,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Carbon Disulfide (alternately Disulphide)",
+      "group2": 38,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Esters",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Ethers",
+      "group2": 41,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Glycol Ethers",
+      "group2": 40,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Halogenated Hydrocarbons",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Ketones",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Miscellaneous Hydrocarbon Mixtures",
+      "group2": 33,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Nitriles",
+      "group2": 37,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Nitrocompounds",
+      "group2": 42,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Olefins",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Paraffins",
+      "group2": 31,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Phenols, Cresols",
+      "group2": 21,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Substituted Allyls",
+      "group2": 15,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Sulfolane (alternately Sulpholane)",
+      "group2": 39,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Vinyl Acetate",
+      "group2": 13,
+      "notes": null
+    },
+    {
+      "substance1": "Acetone cyanohydrin",
+      "group1": 0,
+      "substance2": "Vinyl Halides",
+      "group2": 35,
+      "notes": null
+    },
+    {
+      "substance1": "Acrylonitrile",
+      "group1": 15,
+      "substance2": "Triethanolamine",
+      "group2": 8,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <99% by volume)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Cetyl alcohol (Hexadecanol)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Ethyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Ethylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Isobutyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Isooctyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Isopropyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Methyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "Propylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic potash, 50% or less",
+      "group1": 5,
+      "substance2": "n-Butyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Acrylonitrile/Styrene copolymer dispersion in Polyether polyol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Alcohol (C12-C16) poly(1-6)ethoxylates",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <99% by volume)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Butyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Cetyl alcohol (Hexadecanol)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Decyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Diacetone alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Diethylene glycol",
+      "group2": 40,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Dodecyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Ethyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Ethyl alcohol (40% whiskey)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Ethyl hexanol (Octyl alcohol)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Ethylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Ethylene glycol, Diethylene glycol mixture",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Isobutyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Isodecyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Isononyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Isopropyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Isotridecanol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Methyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Nonyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Propyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Propylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "Sodium chlorate solution",
+      "group2": 0,
+      "notes": null
+    },
+    {
+      "substance1": "Caustic soda, 50% or less",
+      "group1": 5,
+      "substance2": "tert-Butyl alcohol, Methanol mixtures",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Acrylates",
+      "group2": 14,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Alcohols, Glycols",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Aromatic Hydrocarbon Mixtures",
+      "group2": 32,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Esters",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Halogenated Hydrocarbons",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Ketones",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Methyl tert-butyl ether",
+      "group2": 41,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Olefins",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Organic Acids",
+      "group2": 4,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Organic Anhydrides",
+      "group2": 11,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Paraffins",
+      "group2": 31,
+      "notes": null
+    },
+    {
+      "substance1": "Dimethyl disulfide (alternately disulfide)",
+      "group1": 0,
+      "substance2": "Phenols, Cresols",
+      "group2": 21,
+      "notes": null
+    },
+    {
+      "substance1": "Diphenylmethane diisocyanate",
+      "group1": 12,
+      "substance2": "2,2-Dimethylpropane-1,3-diol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Diphenylmethane diisocyanate",
+      "group1": 12,
+      "substance2": "Polypropylene glycol",
+      "group2": 40,
+      "notes": null
+    },
+    {
+      "substance1": "Dodecyl and Tetradecylamine mixture",
+      "group1": 7,
+      "substance2": "Tall oil, fatty acid",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <99% by volume)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Butyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Butylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Creosote",
+      "group2": 21,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Diethylene glycol",
+      "group2": 40,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Diisobutyl ketone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Ethyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Ethyl hexanol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Ethylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Fatty alcohols (C12-C14)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Glycerine",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Isononyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Isophorone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Methyl butyl ketone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Methyl ethyl ketone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Methyl isobutyl ketone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Propyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "Propylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Ethylenediamine",
+      "group1": 7,
+      "substance2": "tert-Butyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Hexamethylenediamine solution",
+      "group1": 7,
+      "substance2": "CepSinol TM 1216 (Alcohols (C12+), primary, linear)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Lactic acid",
+      "group1": 0,
+      "substance2": "Acetic acid",
+      "group2": 4,
+      "notes": null
+    },
+    {
+      "substance1": "Lactic acid",
+      "group1": 0,
+      "substance2": "Benzene",
+      "group2": 32,
+      "notes": null
+    },
+    {
+      "substance1": "Lactic acid",
+      "group1": 0,
+      "substance2": "Ethanol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Lactic acid",
+      "group1": 0,
+      "substance2": "Polypropylene glycol",
+      "group2": 40,
+      "notes": null
+    },
+    {
+      "substance1": "Lactic acid",
+      "group1": 0,
+      "substance2": "Vinyl acetate",
+      "group2": 13,
+      "notes": null
+    },
+    {
+      "substance1": "Oleum",
+      "group1": 0,
+      "substance2": "Dichloromethane",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Oleum",
+      "group1": 0,
+      "substance2": "Hexane",
+      "group2": 31,
+      "notes": null
+    },
+    {
+      "substance1": "Oleum",
+      "group1": 0,
+      "substance2": "Perchloroethylene",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "1,2-Dichloropropane",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Chlorobenzene",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Cyclohexanone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Cyclohexanone, Cyclohexanol mixtures",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Diethanolamine",
+      "group2": 8,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Diisononyl phthalate",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Dimethylformamide",
+      "group2": 10,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Ethyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Ethylene glycol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Furfuryl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Heptene (all isomers)",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Isobutyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Isopropyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Lubricating oil",
+      "group2": 33,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Methyl ethyl ketone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Nonene (all isomers)",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Nonyl alcohol (all isomers)",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Octene (all isomers)",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Perchloroethylene",
+      "group2": 36,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Polyisobutenamine in aliphatic (C10-C14) solvent",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "Xylene",
+      "group2": 32,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium Methylate 21-30% in methanol",
+      "group1": 0,
+      "substance2": "o-Toluidine",
+      "group2": 9,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium cresylate as Cresylate spent caustic",
+      "group1": 5,
+      "substance2": "Methyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "1-Hexene",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "Acetone",
+      "group2": 18,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "Ethyl acetate",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "Methyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "Octene (all isomers)",
+      "group2": 30,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "Phosphoric acid",
+      "group2": 1,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium dichromate solution (70% or less)",
+      "group1": 0,
+      "substance2": "n-Butyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium hydrosulfide (alternately hydrosulphide) solution (45% or less)",
+      "group1": 5,
+      "substance2": "Isopropyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sodium hydrosulfide (alternately hydrosulphide) solution (45% or less)",
+      "group1": 5,
+      "substance2": "Methyl alcohol",
+      "group2": 20,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid",
+      "group1": 2,
+      "substance2": "Coconut oil",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid",
+      "group1": 2,
+      "substance2": "Coconut oil, fatty acid",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid",
+      "group1": 2,
+      "substance2": "Palm oil",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid",
+      "group1": 2,
+      "substance2": "Soyabean oil",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid",
+      "group1": 2,
+      "substance2": "Tallow",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Sulfuric (alternately Sulphuric) acid, 98% or less",
+      "group1": 2,
+      "substance2": "Choice white grease tallow",
+      "group2": 34,
+      "notes": null
+    },
+    {
+      "substance1": "Urea/Ammonium Nitrate solution (containing less than 1% free Ammonia)",
+      "group1": 43,
+      "substance2": "Magnesium chloride solutions",
+      "group2": 0,
+      "notes": null
+    },
+    {
+      "substance1": "gamma-Butyrolactone",
+      "group1": 0,
+      "substance2": "N-Methyl-2-pyrrolidone",
+      "group2": 9,
+      "notes": null
+    },
+    {
+      "substance1": "tert-Dodecanethiol",
+      "group1": 20,
+      "substance2": "Caustic soda solution (50%)",
+      "group2": 5,
+      "notes": null
+    },
+    {
+      "substance1": "tert-Dodecanethiol",
+      "group1": 20,
+      "substance2": "Isopropylamine solution (70%)",
+      "group2": 7,
+      "notes": null
+    },
+    {
+      "substance1": "tert-Dodecanethiol",
+      "group1": 20,
+      "substance2": "Polymethylene polyphenyl isocyanate",
+      "group2": 12,
+      "notes": null
+    },
+    {
+      "substance1": "tert-Dodecanethiol",
+      "group1": 20,
+      "substance2": "Toluene diisocyanate",
+      "group2": 12,
+      "notes": null
+    }
+  ],
+  "prohibited": [
+    {
+      "substance": "1 ,6-Hexanediol distillation overheads",
+      "group": 4,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3,
+        9
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids, or Group 9, Aromatic Amines"
+    },
+    {
+      "substance": "1 -(4-Chlorophenyl)-4,4-dimethyl pentan-3-one",
+      "group": 18,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5,
+        10
+      ],
+      "notes": "not compatible with Group 5, Caustics, or Group 10, Amides"
+    },
+    {
+      "substance": "1,1,1-Trichloroethane",
+      "group": 36,
+      "incompatibleWith": [
+        "Oleum (Group 0)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Oleum (0)"
+    },
+    {
+      "substance": "1,2,3-Trichloropropane",
+      "group": 36,
+      "incompatibleWith": [
+        "Diethylenetriamine (Group 7)",
+        "Ethylenediamine (Group 7)",
+        "Ethyleaneamine EA 1302 (Group 7)",
+        "Triethylenetetramine (Group 7)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Diethylenetriamine, Ethylenediamine, Ethyleaneamine EA 1302, or Triethylenetetramine, all Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "1,3,5-Trioxane",
+      "group": 41,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        4
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids, or Group 4, Organic Acids"
+    },
+    {
+      "substance": "2 ,4-Dichlorophenoxyacetic acid, Dimethylamine salt solution (70% or less)",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12,
+        16
+      ],
+      "notes": "not compatible with Groups 1-5, 11, 12, or 16"
+    },
+    {
+      "substance": "2 ,4-Dichlorophenoxyacetic acid, Triisopropanolamine salt solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids"
+    },
+    {
+      "substance": "2 -Ethyl-3-propylacrolein",
+      "group": 19,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "2 -Hydroxyethyl acrylate",
+      "group": 14,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5,
+        6,
+        12
+      ],
+      "notes": "not compatible with Groups 5, 6, or 12"
+    },
+    {
+      "substance": "Acetone cyanohydrin",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        22
+      ],
+      "notes": "not compatible with Groups 1-12, 16, 17 or 22"
+    },
+    {
+      "substance": "Acrolein",
+      "group": 19,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "Acrylic acid",
+      "group": 4,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        9
+      ],
+      "notes": "not compatible with Group 9, Aromatic Amines"
+    },
+    {
+      "substance": "Acrylonitrile",
+      "group": 15,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Alkyl (C7-C9) nitrates",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "Alkylbenzene sulfonic (alternately sulphonic) acid (less than 4%)",
+      "group": 0,
+      "incompatibleWith": [
+        "strong oxidizers"
+      ],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16,
+        18,
+        19,
+        30,
+        34,
+        37
+      ],
+      "notes": "not compatible with Groups 1-3, 5-9, 15, 16, 18, 19, 30, 34, 37, or strong oxidizers"
+    },
+    {
+      "substance": "Allyl alcohol",
+      "group": 15,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, Isocyanates"
+    },
+    {
+      "substance": "Aluminum sulfate (alternately Aluminium sulphate) solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "notes": "not compatible with Groups 5-11"
+    },
+    {
+      "substance": "Ammonium bisulfite (alternately bisulphite) solution (70% or less)",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "notes": "not compatible with Groups 1 or 3-5"
+    },
+    {
+      "substance": "Benzenesulfonyl (alternately Benzenesulphonyl) chloride",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5,
+        6,
+        7,
+        43
+      ],
+      "notes": "not compatible with Groups 5-7, or 43"
+    },
+    {
+      "substance": "Butylene glycol",
+      "group": 20,
+      "incompatibleWith": [
+        "Caustic soda solution (Group 5)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Caustic soda solution (5)"
+    },
+    {
+      "substance": "C9 Resinfeed (DSM)",
+      "group": 32,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        2
+      ],
+      "notes": "not compatible with Group 2, Sulfuric (alternately Sulphuric) Acids"
+    },
+    {
+      "substance": "Carbon tetrachloride",
+      "group": 36,
+      "incompatibleWith": [
+        "Tetraethylenepentamine (Group 7)",
+        "Triethylenetetramine (Group 7)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Tetraethylenepentamine or Triethylenetetramine, both Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "Catoxid feedstock",
+      "group": 36,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12
+      ],
+      "notes": "not compatible with Groups 1-5, or 12"
+    },
+    {
+      "substance": "Caustic soda solution",
+      "group": 5,
+      "incompatibleWith": [
+        "Butylene glycol (Group 20)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Butylene glycol (20)"
+    },
+    {
+      "substance": "Crotonaldehyde",
+      "group": 19,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "Cyclohexanone/Cyclohexanol mixture",
+      "group": 18,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, Isocyanates"
+    },
+    {
+      "substance": "Diethylenetriamine",
+      "group": 7,
+      "incompatibleWith": [
+        "1,2,3-Trichloropropane (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with 1,2,3-Trichloropropane, Group 36, Halogenated Hydrocarbons"
+    },
+    {
+      "substance": "Dimethyl hydrogen phosphite",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        4
+      ],
+      "notes": "not compatible with Groups 1 or 4"
+    },
+    {
+      "substance": "Dimethyl naphthalene sulfonic (alternately sulphonic) acid, sodium salt solution",
+      "group": 34,
+      "incompatibleWith": [
+        "Formaldehyde",
+        "strong oxidizing agents"
+      ],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, or Formaldehyde, or with strong oxidizing agents"
+    },
+    {
+      "substance": "Dodecylbenzenesulfonic (alternately Dodecylbenzenesulphonic) acid",
+      "group": 0,
+      "incompatibleWith": [
+        "oxidizing agents"
+      ],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16,
+        18,
+        19,
+        30,
+        34,
+        37
+      ],
+      "notes": "not compatible with oxidizing agents or Groups 1-3, 5-9, 15, 16, 18, 19, 30, 34, or 37"
+    },
+    {
+      "substance": "Ethyl tert-butyl ether",
+      "group": 41,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "Ethylene dichloride",
+      "group": 36,
+      "incompatibleWith": [
+        "Ethylenediamine (Group 7)",
+        "Ethyleneamine EA 1302 (Group 7)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Ethylenediamine (7) or Ethyleneamine EA 1302 (7)"
+    },
+    {
+      "substance": "Ethyleneamine EA 1302",
+      "group": 7,
+      "incompatibleWith": [
+        "Ethylene dichloride (Group 36)",
+        "1,2,3-Trichloropropane (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with either Ethylene dichloride (36) or 1,2,3-Trichloropropane (36)"
+    },
+    {
+      "substance": "Ethylenediamine",
+      "group": 7,
+      "incompatibleWith": [
+        "Ethylene dichloride (Group 36)",
+        "1,2,3-Trichloropropane (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with either Ethylene dichloride (36) or 1,2,3-Trichloropropane (36)"
+    },
+    {
+      "substance": "Ethylidene norbornene",
+      "group": 30,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "notes": "not compatible with Groups 1-3 or 5-8"
+    },
+    {
+      "substance": "Fatty acids, essentially linear (C6-C18) 2-ethylhexyl ester",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids"
+    },
+    {
+      "substance": "Ferric hydroxyethylethylenediamine triacetic acid, Triodium salt solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids"
+    },
+    {
+      "substance": "Fish oil",
+      "group": 34,
+      "incompatibleWith": [
+        "Sulfuric (alternately Sulphuric) acid (Group 2)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Sulfuric (alternately Sulphuric) acid (2)"
+    },
+    {
+      "substance": "Formaldehyde (50% or more) in Methyl alcohol (over 30%)",
+      "group": 19,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, Isocyanates"
+    },
+    {
+      "substance": "Formic acid",
+      "group": 4,
+      "incompatibleWith": [
+        "Furfuryl alcohol (Group 20)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Furfuryl alcohol (20)"
+    },
+    {
+      "substance": "Furfuryl alcohol",
+      "group": 20,
+      "incompatibleWith": [
+        "Formic acid (Group 4)"
+      ],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids, or with Formic acid (4)"
+    },
+    {
+      "substance": "Glycol Ethers",
+      "group": 40,
+      "incompatibleWith": [
+        "Acrylonitrile (Group 15)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Acrylonitrile (Group 15)"
+    },
+    {
+      "substance": "Isophorone",
+      "group": 18,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        8
+      ],
+      "notes": "not compatible with Group 8, Alkanolamines"
+    },
+    {
+      "substance": "Lactic acid",
+      "group": 0,
+      "incompatibleWith": [
+        "Caustic soda solution (Group 5)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Caustic soda solution (5)"
+    },
+    {
+      "substance": "Magnesium chloride solution",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        2,
+        3,
+        5,
+        6,
+        12
+      ],
+      "notes": "not compatible with Groups 2, 3, 5, 6, or 12"
+    },
+    {
+      "substance": "Mesityl oxide",
+      "group": 18,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        8
+      ],
+      "notes": "not compatible with Group 8, Alkanolamines"
+    },
+    {
+      "substance": "Methacrylonitrile",
+      "group": 15,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Methyl tert-butyl ether",
+      "group": 41,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids"
+    },
+    {
+      "substance": "Nitroethane/1-Nitropropane (each 15% or more) mixture",
+      "group": 42,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        7,
+        8,
+        9
+      ],
+      "notes": "not compatible with Group 7, Aliphatic Amines; Group 8, Alkanolamines; or Group 9, Aromatic Amines"
+    },
+    {
+      "substance": "Nitropropane (60%)/Nitroethane (40%) mixture",
+      "group": 42,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        7,
+        8,
+        9
+      ],
+      "notes": "not compatible with Group 7, Aliphatic Amines; Group 8, Alkanolamines; or Group 9, Aromatic Amines"
+    },
+    {
+      "substance": "Oleum",
+      "group": 0,
+      "incompatibleWith": [
+        "Sulfuric (alternately Sulphuric) acid (Group 2)",
+        "1,1,1-Trichloroethane (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Sulfuric (alternately Sulphuric) acid (2) or 1,1,1-Trichloroethane (36)"
+    },
+    {
+      "substance": "Phthalate-based polyester polyol",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        2,
+        3,
+        5,
+        7,
+        12
+      ],
+      "notes": "not compatible with Groups 2, 3, 5, 7, or 12"
+    },
+    {
+      "substance": "Polyglycerine, Sodium salts solution (containing less than 3% sodium hydroxide)",
+      "group": 20,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        4,
+        11,
+        16,
+        17,
+        19,
+        21,
+        22
+      ],
+      "notes": "not compatible with Groups 1, 4, 11, 16, 17, 19, 21, or 22"
+    },
+    {
+      "substance": "Propylene, Propane, MAPP gas mixture (containing 12% or less MAPP gas)",
+      "group": 30,
+      "incompatibleWith": [
+        "nitrogen dioxide (Group 0)",
+        "oxidizing agents (Group 0)",
+        "molten sulfur (alternately sulphur) (Group 0)"
+      ],
+      "incompatibleGroups": [
+        1,
+        36
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids, Group 36, Halogenated Hydrocarbons, or with nitrogen dioxide, oxidizing agents, or molten sulfur (alternately sulphur) (0)"
+    },
+    {
+      "substance": "Sodium acetate, Glycol, Water mixture (containing 1% or less Sodium hydroxide)",
+      "group": 5,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, Isocyanates"
+    },
+    {
+      "substance": "Sodium chlorate solution (50% or less)",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10,
+        12,
+        13,
+        17,
+        20
+      ],
+      "notes": "not compatible with Groups 1-3, 5, 7, 8, 10, 12, 13, 17, or 20"
+    },
+    {
+      "substance": "Sodium dichromate solution (70% or less)",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10,
+        12,
+        13,
+        17,
+        20
+      ],
+      "notes": "not compatible with Groups 1-3, 5, 7, 8, 10, 12, 13, 17, or 20"
+    },
+    {
+      "substance": "Sodium dimethyl naphthalene sulfonate solution",
+      "group": 34,
+      "incompatibleWith": [
+        "Formaldehyde",
+        "strong oxidizing agents"
+      ],
+      "incompatibleGroups": [
+        12
+      ],
+      "notes": "not compatible with Group 12, or Formaldehyde, or strong oxidizing agents"
+    },
+    {
+      "substance": "Sodium hydrogen sulfide (alternately sulphide) (6% or less)/Sodium carbonate solution (3% or less)",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        6,
+        7
+      ],
+      "notes": "not compatible with Group 6, Ammonia, or Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "Sodium hydrosulfide (alternately hydrosulphide) solution (45% or less)",
+      "group": 5,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        6,
+        7
+      ],
+      "notes": "not compatible with Group 6, Ammonia, or Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "Sodium hydrosulfide (alternately hydrosulphide), Ammonium sulfide (alternately sulphide) solution",
+      "group": 5,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        6,
+        7
+      ],
+      "notes": "not compatible with Group 6, Ammonia, or Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "Sodium polyacrylate solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids"
+    },
+    {
+      "substance": "Sodium silicate solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        3
+      ],
+      "notes": "not compatible with Group 3, Nitric Acids"
+    },
+    {
+      "substance": "Sodium sulfide, hydrosulfide (alternately sulphide, hydrosulphide) solution",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        6,
+        7
+      ],
+      "notes": "not compatible with Group 6, Ammonia, or Group 7, Aliphatic Amines"
+    },
+    {
+      "substance": "Sodium thiocyanate (56% or less)",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "notes": "not compatible with Groups 1-4"
+    },
+    {
+      "substance": "Sulfonated (alternately Sulphonated) polyacrylate solution",
+      "group": 43,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Sulfuric (alternately Sulphuric) acid",
+      "group": 2,
+      "incompatibleWith": [
+        "Fish oil (Group 34)",
+        "Oleum (Group 0)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Fish oil (34), or Oleum (0)"
+    },
+    {
+      "substance": "Tall oil fatty acid (Resin acids less than 20%)",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Tallow fatty acid",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Tetraethylenepentamine",
+      "group": 7,
+      "incompatibleWith": [
+        "Carbon tetrachloride (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Carbon tetrachloride, Group 36, Halogenated Hydrocarbons"
+    },
+    {
+      "substance": "Toluene diisocyanate (TDI)",
+      "group": 12,
+      "incompatibleWith": [
+        "Alkylbenzene sulphonic acid, sodium salt solution (Group 33)",
+        "Calcium nitrate solutions (50% or less) (Group 34)",
+        "Calcium nitrate/Magnesium nitrate/Potassium chloride solution (Group 34)",
+        "Formaldehyde solutions (45% or less) (Group 19)",
+        "Glutaraldehyde solutions (50% or less) (Group 19)",
+        "Lactonitrile solution (80% or less) (Group 37)",
+        "Nitrilotriacetic acid, trisodium salt solution (Group 34)",
+        "Sodium acetate solutions (Group 34)",
+        "Sodium sulphate solutions (Group 34)",
+        "Polyferric sulphate solution (Group 34)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Alkylbenzene sulphonic acid, sodium salt solution (Group 33), Calcium nitrate solutions (50% or less) (Group 34), Calcium nitrate/Magnesium nitrate/Potassium chloride solution (Group 34), Formaldehyde solutions (45% or less) (Group 19), Glutaraldehyde solutions (50% or less) (Group 19), Lactonitrile solution (80% or less) (Group 37), Nitrilotriacetic acid, trisodium salt solution (Group 34), Sodium acetate solutions (Group 34), Sodium sulphate solutions (Group 34), Polyferric sulphate solution (Group 34)"
+    },
+    {
+      "substance": "Trichloroethylene",
+      "group": 36,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "Triethyl phosphite",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        4
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids, or Group 4, Organic Acids"
+    },
+    {
+      "substance": "Triethylenetetramine",
+      "group": 7,
+      "incompatibleWith": [
+        "Carbon tetrachloride (Group 36)",
+        "1,2,3-Trichloropropane (Group 36)"
+      ],
+      "incompatibleGroups": [],
+      "notes": "not compatible with Carbon tetrachloride, or 1,2,3-Trichloropropane, both Group 36, Halogenated Hydrocarbons"
+    },
+    {
+      "substance": "Trimethyl phosphite",
+      "group": 34,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        4
+      ],
+      "notes": "not compatible with Group 1, Non-Oxidizing Mineral Acids, or Group 4, Organic Acids"
+    },
+    {
+      "substance": "Vinyl neodecanoate",
+      "group": 13,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        5
+      ],
+      "notes": "not compatible with Group 5, Caustics"
+    },
+    {
+      "substance": "gamma-Butyrolactone",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "notes": "not compatible with Groups 1-9"
+    },
+    {
+      "substance": "o-Nitrophenol",
+      "group": 0,
+      "incompatibleWith": [],
+      "incompatibleGroups": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "notes": "not compatible with Groups 2, 3, or 5-10"
+    }
+  ]
+}
